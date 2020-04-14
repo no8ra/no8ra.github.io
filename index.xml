@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鳥好き写真好き</title>
+    <link>https://no8ra.github.io/</link>
+    <description>Recent content on 鳥好き写真好き</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 13 Apr 2020 15:01:13 +0900</lastBuildDate>
+    
+	<atom:link href="https://no8ra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>鳥撮るでぇ~</title>
+      <link>https://no8ra.github.io/posts/welcome/</link>
+      <pubDate>Mon, 13 Apr 2020 15:01:13 +0900</pubDate>
+      
+      <guid>https://no8ra.github.io/posts/welcome/</guid>
+      <description>鳥撮るでぇ〜 撮影した写真をブログ形式で紹介していきます。 主なフィールドは茨城県はつくば市。
+季節によって様々な場所に探鳥に出かけます。
+機材や設定についても紹介していければと思います。</description>
+    </item>
+    
+    <item>
+      <title>初めての石垣島遠征</title>
+      <link>https://no8ra.github.io/posts/ishigaki/</link>
+      <pubDate>Wed, 04 Mar 2020 18:05:04 +0900</pubDate>
+      
+      <guid>https://no8ra.github.io/posts/ishigaki/</guid>
+      <description>3月の初めに石垣島遠征に行きました！ カンムリワシ、クロウタドリ、カタグロトビ、リュウキュウアオバズク、ヤツガシラなど盛り沢山！！ </description>
+    </item>
+    
+  </channel>
+</rss>

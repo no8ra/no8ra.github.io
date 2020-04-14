@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://no8ra.github.io/posts/</loc>
+    <lastmod>2020-04-13T15:01:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://no8ra.github.io/</loc>
+    <lastmod>2020-04-13T15:01:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://no8ra.github.io/posts/welcome/</loc>
+    <lastmod>2020-04-13T15:01:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://no8ra.github.io/posts/ishigaki/</loc>
+    <lastmod>2020-03-04T18:05:04+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://no8ra.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://no8ra.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://no8ra.github.io/tags/</loc>
+  </url>
+  
+</urlset>
